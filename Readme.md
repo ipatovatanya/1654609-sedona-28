@@ -1,7 +1,7 @@
 # Личный проект «Седона» 
 
 * Студент: [Татьяна Ипатова](https://up.htmlacademy.ru/adaptive/28/user/1654609).
-* Наставник: [Сергей Остапенко] (https://htmlacademy.ru/profile/seraphim).
+* Наставник: [Сергей Остапенко](https://htmlacademy.ru/profile/seraphim).
 
 
 ---

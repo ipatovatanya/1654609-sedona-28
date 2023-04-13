@@ -1,0 +1,37 @@
+@import "global/bootstrap";
+
+.services {
+  background-color: bootstrap @main-bgColor;
+}
+
+.services__wrapper {
+  width: 284px;
+  margin: 0 auto;
+  padding-top: 23px;
+  padding-bottom: 46px;
+}
+
+.services__list {
+  .reset-list;
+}
+
+.services__item {
+  text-align: left;
+  margin-left: 47px;
+
+  &:not(:last-child) {
+    margin-bottom: 25px;
+  }
+}
+
+.services__title {
+  .boldTitle;
+  color: bootstrap @title-color;
+  margin-top: 8px;
+  margin-bottom: 16px;
+}
+
+.services__description {
+  .normalTitle;
+  color: bootstrap @secondary-color;
+}
